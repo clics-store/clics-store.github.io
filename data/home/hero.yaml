@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Grow your startup with flexible contractors and let CLICS service make sure that you protect your code, design and digital assets"
+  text: "Safe and quickly deal, wide choice of licenses, protection guarantee."
+
+  buttonPrimary:
+    label: "Login In"
+    url: "#"
+
+  buttonSecondary:
+    label: "Service overview"
+    url: ""
+

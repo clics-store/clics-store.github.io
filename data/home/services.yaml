@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "3 reasons why it matters"
+  # text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Project Protection"
+      text: "By making a deal with each of your contractors, you protect your project from subsequent claims"
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Raising funding"
+      text: "Attracting funding is only possible in projects in which you have all the rights to the code, design, text, visual design."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Save time and money"
+      text: "You don't need to spend time and resources searching for documents and coordinating them with contractors."
+      # button:
+      #   label: "Learn more"
+      #   url: "#"

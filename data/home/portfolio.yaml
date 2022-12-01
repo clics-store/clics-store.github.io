@@ -1,0 +1,29 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    # pretitle: "Portfolio Service"
+    title: "Simple and quick deal."
+    text: "Choose with the contractors suitable conditions for the transfer of rights to use and make payment."
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    # pretitle: "Portfolio Service"
+    title: "Transfer of rights and rights to use"
+    text: "After payment, you will receive confirmation of the transaction. The license is always available for download"
+
+  - image: "images/portfolio-ecommerce.png"
+    # pretitle: "Portfolio Service"
+    title: "Transfer of rights and rights to use"
+    text: "After payment, you will receive confirmation of the transaction. The license is always available for download"
+
+  - image: "images/portfolio-ecommerce.png"
+    # pretitle: "Portfolio Service"
+    title: "Warranty and security"
+    text: "The safety of your project is always a priority.
+You will have full access to your digital assets and documents."

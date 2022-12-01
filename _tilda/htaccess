@@ -1,0 +1,42 @@
+ErrorDocument 403 /page24674822.html
+ErrorDocument 404 /page24674822.html
+
+DirectoryIndex page30951401.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^terms$ page24384303.html [NC]
+RewriteRule ^terms/$ page24384303.html [NC]
+
+RewriteRule ^license-agreement$ page24389872.html [NC]
+RewriteRule ^license-agreement/$ page24389872.html [NC]
+
+RewriteRule ^privacy-policy$ page24390016.html [NC]
+RewriteRule ^privacy-policy/$ page24390016.html [NC]
+
+RewriteRule ^licenses$ page25146893.html [NC]
+RewriteRule ^licenses/$ page25146893.html [NC]
+
+RewriteRule ^faq$ page25989651.html [NC]
+RewriteRule ^faq/$ page25989651.html [NC]
+
+RewriteRule ^clics-app$ page27167232.html [NC]
+RewriteRule ^clics-app/$ page27167232.html [NC]
+
+RewriteRule ^promo$ page25498753.html [NC]
+RewriteRule ^promo/$ page25498753.html [NC]
+
+RewriteRule ^ru/sign-in$ page29994560.html [NC]
+RewriteRule ^ru/sign-in/$ page29994560.html [NC]
+
+RewriteRule ^ru$ page30943594.html [NC]
+RewriteRule ^ru/$ page30943594.html [NC]
+
+RewriteRule ^sign-in$ page30953528.html [NC]
+RewriteRule ^sign-in/$ page30953528.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild3330-3530-4063-b438-333834353136/favicon.ico [R=302,L]
+

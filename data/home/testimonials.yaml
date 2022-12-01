@@ -1,0 +1,22 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Startup community about our solution"
+
+  featured:
+    image: "images/testimonials-denis.jpg"
+    text: "I needed a simple solution that would allow me to be confident in the security of my project.
+Now I have a tool where I formalize all the rights transfer relationships with developers, designers, and copywriters."
+    client: "Denis Yatsenko / CEO of Govar"
+
+  list:
+  - text: "For my project, it is critical to respect the transfer of rights at every stage of development. It is also important to automate all deal. This resource advises our requests. All project agreements can now be tracked and managed in one place."
+    client: "Andrew Kapiton / Founder and CEO of Oxygen tech"
+    # image: "images/testimonials-andrew.jpg"
+  - text: "It's better than free templates. Now when I need to process a deal with designers or developers, it only takes a few minutes.
+The cool thing is that all documents are stored in a personal office and you can see all the history of the transfer transactions."
+    client: "Roman Vasilko / CEO & founder of Tobee.live"
+    # image: "images/testimonials-roman.jpg"
+
+

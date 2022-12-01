@@ -1,0 +1,12 @@
+baseURL: "https://clics.store/"
+languageCode: "en-us"
+
+title: "CLICS"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+taxonomies:
+  series: "series"
+  tags: "tags"
